@@ -39,6 +39,12 @@ Finally, it calls the `scrape_twitter_accounts` function with the provided input
 This script provides a convenient way to monitor Twitter for mentions of specific stock symbols across various accounts.
 
 
+https://github.com/Mu5alaf/scraping/assets/109148687/f064ed42-ab81-4c94-961f-a80df2c7f20a
+
+
+
+
+
 Uploading git.mp4…
 
 
